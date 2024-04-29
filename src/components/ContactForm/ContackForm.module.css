@@ -1,0 +1,32 @@
+.form{
+    width: 310px;
+  padding: 8px;
+  border: 1px solid #000;
+  border-radius: 8px;
+}
+
+.formik{
+   color: red;
+}
+ .text{
+    display: flex;
+    margin-bottom: 5px;
+ }
+
+ .input{
+    margin-bottom: 5px;
+    width: 300px;
+ }
+
+
+ .btn {
+    margin-top: 10px;
+    margin-left: 100px;
+  width: 100px;
+  background-color: #e3e3e3;
+}
+
+.btn:hover,
+.btn:focus{
+   background-color: rgb(162, 162, 162);
+}
